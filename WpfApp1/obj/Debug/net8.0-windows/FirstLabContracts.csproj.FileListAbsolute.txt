@@ -1,0 +1,4 @@
+D:\Masha\Курс2\Теоретическая информатика\Lab1\FirstLabContractsGit\WpfApp1\obj\Debug\net8.0-windows\Views\ContractWindow.baml
+D:\Masha\Курс2\Теоретическая информатика\Lab1\FirstLabContractsGit\WpfApp1\obj\Debug\net8.0-windows\Views\ContractWindow.g.cs
+D:\Masha\Курс2\Теоретическая информатика\Lab1\FirstLabContractsGit\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+D:\Masha\Курс2\Теоретическая информатика\Lab1\FirstLabContractsGit\WpfApp1\obj\Debug\net8.0-windows\FirstLabContracts_MarkupCompile.cache
